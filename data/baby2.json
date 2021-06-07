@@ -1,5 +1,6 @@
 {
-  "deliveryTime": 0,
+  "deliveryTime": 18900000,
+  "estimatedTime": 18900000,
   "contractions": [
     {
       "startTime": 2241768.7255155384,
